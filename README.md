@@ -1,11 +1,16 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* "Fork & Pull" Workflow Instructions
 
-Things you may want to cover:
+Fork Repo
+https://help.github.com/articles/fork-a-repo
 
-* Ruby version
+Send Pull Request
+https://help.github.com/articles/using-pull-requests
+
+Future Readme updates:
+
+* CI Dependencies (Reqs, Tests, Docs, etc)
 
 * System dependencies
 
