@@ -2,10 +2,13 @@
 
 * "Fork & Pull" Workflow Instructions
 
-Fork Repo
+Fork This Repo
 https://help.github.com/articles/fork-a-repo
 
-Send Pull Request
+Stay In Sync:
+https://help.github.com/articles/syncing-a-fork
+
+Contribute: Send Pull Request
 https://help.github.com/articles/using-pull-requests
 
 Future Readme updates:
