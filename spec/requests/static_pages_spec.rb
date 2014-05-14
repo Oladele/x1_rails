@@ -9,9 +9,9 @@ describe "StaticPages" do
       expect(page).to have_title("Xtronger")
     end    
 
-    it "should have the content 'Xtronger: The App'" do
+    it "should have the content 'Xtronger'" do
       visit '/static_pages/landing'
-      expect(page).to have_content('Xtronger: The App')
+      expect(page).to have_content('Xtronger')
     end
   end
 end
