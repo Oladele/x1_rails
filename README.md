@@ -1,6 +1,6 @@
 README
 
-1 [*Install rails.*]
+1. [*Install rails.*]
 (http://www.railstutorial.org/book) 
 Recommended: Hartl's book for installation and x1team Rails development set-up base patterns
 
