@@ -1,9 +1,9 @@
-== README
+README
 
-* "Fork & Pull" Workflow Instructions
+"Fork & Pull" Workflow Instructions
 
-Fork This Repo
-https://help.github.com/articles/fork-a-repo
+[*Fork This Repo*]
+(https://help.github.com/articles/fork-a-repo)
 
 Stay In Sync:
 https://help.github.com/articles/syncing-a-fork
